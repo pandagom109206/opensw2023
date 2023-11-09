@@ -4,4 +4,5 @@
 
 void foo();
 void poo();
+void koo();
 #endif
