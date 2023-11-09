@@ -2,6 +2,7 @@
 #include"funcs.h"
 
 int main(){
-	foo();
+	foo(2023);
 	poo();
+	koo();
 }

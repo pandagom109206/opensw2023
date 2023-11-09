@@ -1,6 +1,6 @@
 #include "funcs.h"
-void foo(){
-	printf("hello foo");
+void foo(int num){
+	printf("hello foo %d\n", num);
 }
 
 
