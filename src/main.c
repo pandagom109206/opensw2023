@@ -5,4 +5,6 @@ int main(){
 	foo(2023);
 	poo();
 	koo();
-}
+
+	printf("this is the end");
+	}
