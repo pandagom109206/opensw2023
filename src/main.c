@@ -4,4 +4,5 @@
 int main(){
 	foo();
 	poo();
+	koo();
 }
