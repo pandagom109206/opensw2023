@@ -2,6 +2,6 @@
 #define __FUNCS_H__
 #include<stdio.h>
 void koo();
-void foo();
+void foo(int num);
 void poo();
 #endif
